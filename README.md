@@ -1,6 +1,6 @@
 ## Mass Unfollower for twitter
 
-# unfollow entitled fuckers who dont follow you back in twitter
+# Unfollow entitled fuckers who dont follow you back on twitter
 
 Unfollow (stop following) those people who are not following you back on Twitter (or unfollow everyone if desired).<br>
 	
